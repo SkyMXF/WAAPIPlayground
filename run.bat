@@ -1,1 +1,1 @@
-jupyter notebook --port 8888 playground.ipynb
+jupyter notebook --port 8888 ./playground.ipynb
